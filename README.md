@@ -10,7 +10,7 @@ Consider starting the commit message with an applicable emoji:
 * :apple: `:apple:` when fixing something on Mac OS
 * :checkered_flag: `:checkered_flag:` when fixing something on Windows
 * :bug: `:bug:` when fixing a bug
-* :fire: `:fire:` when removing code or files
+* :scissors: `:scissors:` when removing code or files
 * :green_heart: `:green_heart:` when fixing the CI build
 * :white_check_mark: `:white_check_mark:` when adding tests
 * :lock: `:lock:` when dealing with security
