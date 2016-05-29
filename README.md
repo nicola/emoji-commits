@@ -18,7 +18,7 @@ Consider starting the commit message with an applicable emoji:
 | :lock: | `:lock` | dealing with security |
 | :arrow_up: | `:arrow_up:` | upgrading dependencies |
 | :arrow_down: | `:arrow_down:` | downgrading dependencies |
-| :wrench:     | `:wrench`      | change configuration     |
+| :wrench:     | `:wrench:`      | change configuration     |
 
 (From [atom](https://atom.io/docs/latest/contributing#git-commit-messages))
 
