@@ -26,4 +26,4 @@ Consider starting the commit message with an applicable emoji:
 
 ## Contribute
 
-By being contributor (after a PR is merged), you are part of the *Emoji Commit Messages Consortium*. Feel free to propose new or edit existing *emoji commits*.
+By being contributor (after a PR is merged), you are part of the [*Emoji Commit Messages Consortium*](https://github.com/nicola/emoji-commits/graphs/contributors). Feel free to propose new or edit existing *emoji commits*.
