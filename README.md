@@ -1,5 +1,7 @@
 # Emoji Commit Messages
 
+[![Join the chat at https://gitter.im/nicola/emoji-commits](https://badges.gitter.im/nicola/emoji-commits.svg)](https://gitter.im/nicola/emoji-commits?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Consider starting the commit message with an applicable emoji:
 
 |    | `Code` | Use it when |
